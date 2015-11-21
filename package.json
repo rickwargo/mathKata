@@ -1,0 +1,14 @@
+{
+  "name": "mathKata",
+  "version": "1.0.0",
+  "description": "Practice to become a Mathematical Jedi",
+  "main": "index.js",
+  "author": "Rick Wargo <github@rickwargo.com> (https://www.rickwargo.com/)",
+  "license": "ISC",
+  "alexa": {
+    "applicationId":"amzn1.echo-sdk-ams.app.52d79118-779f-4144-806f-84dd6421b332"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0"
+  }
+}
